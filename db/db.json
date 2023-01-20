@@ -1,26 +1,22 @@
 [
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
+       {
         "title": "Test Note 1",
         "text": "Test text 1",
-        "note_id": "4c3d"
+        "id": "4c3d"
     },
     {
-        "title": "Test Text 23",
-        "text": "Ajskdjfdkskeiie dkgjdgfk kdjfeigj ",
-        "note_id": "c94b"
+        "title": "Test Note 2",
+        "text": "Janine told me the funniest joke today about a duck and a dog",
+        "id": "c94b"
     },
     {
-        "title": "Note Title Here",
-        "text": "show this text",
-        "note_id": "dd18"
+        "title": "Test Note 3",
+        "text": "I need to start yoga",
+        "id": "dd18"
     },
     {
-        "title": "Test Note",
-        "text": "tejhtjedkjgjkasdgjk",
-        "note_id": "6c00"
+        "title": "Test Note 4",
+        "text": "Pick up the kids from school on Monday",
+        "id": "6c00"
     }
 ]
